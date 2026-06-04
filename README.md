@@ -17,10 +17,6 @@ Sou estudante de Tecnologia em Sistemas para Internet no 1º semestre. Meu objet
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Minhas Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TiagoNogueiraDev&show_icons=true&theme=radial)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoNogueiraDev&layout=compact&theme=radial)
 
 ### 📂 Projetos em Destaque
 
