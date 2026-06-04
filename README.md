@@ -1,4 +1,4 @@
-# Olá, eu sou o Tiago
+# Tiago Brandão Nogueira
 
 Sou estudante de Tecnologia em Sistemas para Internet no 1º semestre. Meu objetivo atual é construir uma base sólida em lógica de programação, estruturas de dados e desenvolvimento web.
 
