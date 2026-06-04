@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Tiago
 
-<!--
-**TiagoNogueiraDeveloper/TiagoNogueiraDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Tecnologia em Sistemas para Internet no 1º semestre. Meu objetivo atual é construir uma base sólida em lógica de programação, estruturas de dados e desenvolvimento web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Sobre Mim
+
+* 🏫 Atualmente cursando o primeiro semestre no IFSP - Araraquara.
+* 🚀 Focado em aprender **Linguagem C** para fundamentos e **HTML5 / CSS3** para front-end.
+* ⚡ Buscando evoluir constantemente através de projetos práticos e acadêmicos.
+
+### 🛠️ Tecnologias e Ferramentas
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Minhas Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TiagoNogueiraDev&show_icons=true&theme=radial)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoNogueiraDev&layout=compact&theme=radial)
+
+### 📂 Projetos em Destaque
+
+* **[Controle de Estoque em C](https://github.com/TiagoNogueiraDeveloper/CONTROLE-DE-ESTOQUE):** Sistema completo via terminal com fluxo de vendas, gestão de clientes e validação de dados.
+* **[Fanpage Homem-Aranha](https://github.com/TiagoNogueiraDeveloper/SPIDERMAN-FANPAGE):** Página responsiva explorando conceitos modernos de layout com HTML5 e CSS3.
+
+---
+
+### 📫 Contato
+
+* **LinkedIn:** [linkedin.com/in/tiago-nogueira-880b833b8](https://www.linkedin.com/in/tiago-nogueira-880b833b8/)
+* **E-mail:** [tb6865@gmail.com](tb6865@gmail.com)
