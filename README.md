@@ -150,15 +150,6 @@ Tenho interesse em participar de projetos reais, aprender com profissionais expe
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TiagoNogueiraDeveloper&show_icons=true&locale=pt-br&hide_border=true&theme=transparent">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoNogueiraDeveloper&layout=compact&locale=pt-br&hide_border=true&theme=transparent">
-</p>
-
----
-
 ## 📫 Contato
 
 * **LinkedIn:** [Tiago Brandão Nogueira](https://www.linkedin.com/in/tiago-nogueira-880b833b8/)
