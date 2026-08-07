@@ -1,4 +1,3 @@
-<h1 align="center">Olá! Eu sou o Tiago Brandão Nogueira 👋</h1>
 
 <h3 align="center">
 Estudante de Tecnologia em Sistemas para Internet | Back-end e Dados
