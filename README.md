@@ -1,4 +1,5 @@
 
+
 <h3 align="center">
 Estudante de Tecnologia em Sistemas para Internet | Back-end e Dados
 </h3>
@@ -16,19 +17,19 @@ Estudante de Tecnologia em Sistemas para Internet | Back-end e Dados
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Tecnologia em Sistemas para Internet no IFSP Araraquara**, construindo minha formação nas áreas de desenvolvimento de software, programação e banco de dados.
+Sou estudante de **Tecnologia em Sistemas para Internet no IFSP Araraquara**, com interesse profissional nas áreas de **Desenvolvimento Back-end, Dados e Business Intelligence**.
 
-Tenho interesse profissional principalmente em **Desenvolvimento Back-end, Análise de Dados e Business Intelligence**, buscando uma oportunidade de estágio na qual eu possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com projetos reais.
+Durante minha formação, venho desenvolvendo conhecimentos em lógica de programação, estruturas de dados, desenvolvimento web, banco de dados e organização de projetos.
 
-Atualmente também trabalho na **Cutrale**, na área de Relações Trabalhistas. Essa experiência tem desenvolvido minhas habilidades de organização, responsabilidade, análise de informações, comunicação e compreensão de processos corporativos.
+Também possuo experiência em ambiente corporativo na **Cutrale**, atuando na área de Relações Trabalhistas. Essa experiência contribui para o desenvolvimento de habilidades como responsabilidade, organização, análise de informações, comunicação e compreensão de processos empresariais.
 
-* 🎓 Cursando Tecnologia em Sistemas para Internet no **IFSP Araraquara**
-* 💼 Experiência profissional na área de **Relações Trabalhistas da Cutrale**
-* 🐍 Estudando **Python** com foco em lógica, automação e Back-end
-* ☕ Aprendendo **Java e Programação Orientada a Objetos**
-* 🗄️ Desenvolvendo conhecimentos em **SQL e bancos de dados**
-* 🌎 Inglês intermediário-avançado — **nível B2**
-* 🎯 Buscando estágio em **Back-end, Dados ou Desenvolvimento de Software**
+* 🎓 Estudante de Tecnologia em Sistemas para Internet no IFSP
+* 💼 Experiência profissional em ambiente corporativo
+* 🐍 Estudando Python com foco em Back-end e automação
+* ☕ Aprendendo Java e Programação Orientada a Objetos
+* 🗄️ Desenvolvendo conhecimentos em SQL e bancos de dados
+* 🌎 Inglês intermediário-avançado — nível B2
+* 🎯 Em busca de estágio na área de tecnologia
 
 ---
 
@@ -52,73 +53,100 @@ Atualmente também trabalho na **Cutrale**, na área de Relações Trabalhistas.
   <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/SQL-121212?style=for-the-badge&logo=mysql&logoColor=4479A1">
   <img src="https://img.shields.io/badge/APIs_REST-121212?style=for-the-badge&logo=fastapi&logoColor=009688">
-  <img src="https://img.shields.io/badge/Orientação_a_Objetos-121212?style=for-the-badge">
 </p>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projeto em destaque
 
 ### 📦 Sistema de Controle de Estoque, Vendas e Clientes
 
-[Ver repositório](https://github.com/TiagoNogueiraDeveloper/CONTROLE-DE-ESTOQUE)
+[Ver projeto no GitHub](https://github.com/TiagoNogueiraDeveloper/CONTROLE-DE-ESTOQUE)
 
-Sistema desenvolvido em **linguagem C** para gerenciamento de estoque, vendas e clientes por meio do terminal.
+Sistema acadêmico desenvolvido em **linguagem C** para gerenciar produtos, vendas, clientes e informações financeiras de um estabelecimento por meio do terminal.
 
-Principais recursos:
+O projeto foi desenvolvido durante o primeiro semestre do curso de Tecnologia em Sistemas para Internet e teve como objetivo aplicar, na prática, os fundamentos de programação aprendidos durante a disciplina.
 
-* Cadastro, listagem e remoção de produtos
-* Registro e histórico de vendas
-* Gerenciamento de clientes
+### Principais funcionalidades
+
+* Cadastro de produtos
+* Listagem completa do estoque
+* Remoção de produtos
+* Registro de vendas
+* Histórico de vendas realizadas
+* Cadastro e gerenciamento de clientes
 * Validação de CPF
-* Relatórios de estoque
-* Alertas para produtos com estoque baixo
-* Cálculo do valor financeiro armazenado
+* Identificação de campos obrigatórios
+* Relatório de produtos com estoque baixo
+* Cálculo do valor financeiro total do estoque
 
-**Conceitos aplicados:** funções, estruturas, vetores, matrizes, validação de dados, modularização e lógica de programação.
+### Conceitos aplicados
+
+* Lógica de programação
+* Funções e modularização
+* Structs
+* Vetores e matrizes
+* Manipulação de strings
+* Validação de dados
+* Estruturas condicionais
+* Estruturas de repetição
+* Organização de código
+* Resolução de problemas
+
+Esse projeto representa minha base em programação e demonstra minha capacidade de transformar requisitos em funcionalidades, organizar regras de negócio e desenvolver uma solução funcional utilizando uma linguagem de baixo nível.
 
 ---
 
-### 🎓 LINKEDIF — Rede profissional acadêmica
+## 🌐 Outros projetos
 
-[Ver repositório](https://github.com/TiagoNogueiraDeveloper/LINKEDIF)
+### 🎓 LINKEDIF
 
-Plataforma web inspirada no LinkedIn e adaptada ao ambiente educacional do IFSP.
+[Ver projeto](https://github.com/TiagoNogueiraDeveloper/LINKEDIF)
 
-O projeto busca representar uma rede profissional voltada para estudantes, professores e egressos, aplicando conceitos de desenvolvimento web aprendidos durante o curso.
+Rede social acadêmica inspirada no LinkedIn e adaptada para estudantes, professores e egressos do IFSP.
 
-**Tecnologias:** HTML5 e CSS3.
-
-**Conceitos aplicados:** estruturação semântica, estilização de interfaces, organização de páginas e desenvolvimento incremental.
+**Tecnologias utilizadas:** HTML5 e CSS3.
 
 ---
 
 ### 🕷️ Spider-Verse Fanpage
 
-[Ver repositório](https://github.com/TiagoNogueiraDeveloper/SPIDERMAN-FANPAGE)
+[Ver projeto](https://github.com/TiagoNogueiraDeveloper/SPIDERMAN-FANPAGE)
 
-Fanpage responsiva dedicada à trajetória do Homem-Aranha nos cinemas, com linha do tempo, galerias e seções temáticas.
+Página responsiva sobre a trajetória do Homem-Aranha nos cinemas, desenvolvida para aplicar conceitos de estruturação e estilização de interfaces.
 
-**Tecnologias:** HTML5 e CSS3.
-
-**Conceitos aplicados:** Flexbox, CSS Grid, variáveis CSS, responsividade, efeitos de interação e organização visual de conteúdo.
+**Tecnologias utilizadas:** HTML5 e CSS3.
 
 ---
 
 ## 📚 Atualmente estudando
 
-Estou aprofundando meus conhecimentos em:
-
-* Python aplicado a automações e Back-end
-* Java e Programação Orientada a Objetos
+* Python
+* Java
+* Programação Orientada a Objetos
 * JavaScript
-* Modelagem e consulta de bancos de dados com SQL
-* Estruturas de dados e algoritmos
-* APIs REST
+* SQL e modelagem de bancos de dados
+* Estruturas de dados
+* Desenvolvimento de APIs REST
 * Git e GitHub
-* Desenvolvimento de projetos para portfólio
+* Desenvolvimento Back-end
+* Análise de Dados e Business Intelligence
 
-Meu objetivo é evoluir gradualmente para o desenvolvimento de aplicações Back-end completas, integrando **API, banco de dados, regras de negócio e interface**.
+Meu objetivo atual é desenvolver aplicações que integrem **regras de negócio, APIs, banco de dados e análise de informações**.
+
+---
+
+## 🎯 Objetivos profissionais
+
+Busco uma oportunidade de estágio em uma das seguintes áreas:
+
+* Desenvolvimento Back-end
+* Desenvolvimento de Software
+* Dados e Business Intelligence
+* Automação de processos
+* Suporte e Tecnologia da Informação
+
+Tenho interesse em participar de projetos reais, aprender com profissionais experientes e contribuir com responsabilidade, organização e disposição para evoluir tecnicamente.
 
 ---
 
@@ -131,21 +159,9 @@ Meu objetivo é evoluir gradualmente para o desenvolvimento de aplicações Back
 
 ---
 
-## 🤝 Oportunidades
-
-Estou buscando minha primeira oportunidade profissional na área de tecnologia, principalmente como:
-
-* Estagiário em Desenvolvimento de Software
-* Estagiário em Desenvolvimento Back-end
-* Estagiário em Dados ou Business Intelligence
-* Estagiário em Tecnologia da Informação
-
-Tenho facilidade para aprender, experiência em ambiente corporativo e interesse em participar de projetos nos quais eu possa evoluir tecnicamente e gerar resultados para a equipe.
-
----
-
 ## 📫 Contato
 
 * **LinkedIn:** [Tiago Brandão Nogueira](https://www.linkedin.com/in/tiago-nogueira-880b833b8/)
 * **E-mail:** [tb6865@gmail.com](mailto:tb6865@gmail.com)
+* **GitHub:** [TiagoNogueiraDeveloper](https://github.com/TiagoNogueiraDeveloper)
 * **Localização:** Araraquara, São Paulo — Brasil
