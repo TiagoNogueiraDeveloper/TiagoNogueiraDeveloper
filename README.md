@@ -3,6 +3,7 @@ Estudante de Tecnologia em Sistemas para Internet no IFSP Araraquara e estagiár
 Atuo com SQL Server (T-SQL), consultas em ERPs, especialmente TOTVS RM, e desenvolvimento de relatórios a partir de demandas de clientes e especialistas.
 Tenho experiência anterior com processos administrativos e análise de informações na Cutrale.
 Meu foco é transformar dados e regras de negócio em soluções práticas.
+
 🛠️ Tecnologias que utilizo
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-121212?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" />
@@ -15,6 +16,7 @@ Meu foco é transformar dados e regras de negócio em soluções práticas.
   <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/TOTVS_RM-121212?style=for-the-badge&logoColor=white" alt="TOTVS RM" />
 </p>Experiência prática: consultas SQL com JOIN, GROUP BY, HAVING, filtros e agregações; análise de demandas e geração de relatórios. Python: fundamentos. Oracle SQL: familiaridade com adaptação de consultas.
+
 📚 Em aprendizado
 <p>
   <img src="https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
