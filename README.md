@@ -24,7 +24,9 @@ Meu foco é transformar dados e regras de negócio em soluções práticas.
   <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>Aprofundando Python para análise e automação de dados, Pandas, Power BI, modelagem de dados, Java, JavaScript e fundamentos de desenvolvimento back-end.
+
 🎯 Objetivo profissional
 Consolidar minha carreira em Análise de Dados e evoluir para Engenharia de Dados, com foco em SQL, Python, automação e integração de sistemas.
+
 🌎 Idiomas
 Inglês: B2 — intermediário-avançado.
