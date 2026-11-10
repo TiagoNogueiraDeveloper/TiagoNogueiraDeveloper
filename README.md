@@ -30,4 +30,7 @@ Consolidar minha carreira em Análise de Dados e evoluir para Engenharia de Dado
 </p>
 
 🌎 Idiomas
+<p>
 Inglês: B2 — intermediário-avançado.
+</p>
+
