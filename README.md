@@ -1,4 +1,3 @@
-👨‍💻 Sobre mim
 Estudante de Tecnologia em Sistemas para Internet no IFSP Araraquara e estagiário em Dados.
 Atuo com SQL Server (T-SQL), consultas em ERPs, especialmente TOTVS RM, e desenvolvimento de relatórios a partir de demandas de clientes e especialistas.
 Tenho experiência anterior com processos administrativos e análise de informações na Cutrale.
