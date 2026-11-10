@@ -25,7 +25,9 @@ Meu foco é transformar dados e regras de negócio em soluções práticas.
 </p>Aprofundando Python para análise e automação de dados, Pandas, Power BI, modelagem de dados, Java, JavaScript e fundamentos de desenvolvimento back-end.
 
 🎯 Objetivo profissional
+<p>
 Consolidar minha carreira em Análise de Dados e evoluir para Engenharia de Dados, com foco em SQL, Python, automação e integração de sistemas.
+</p>
 
 🌎 Idiomas
 Inglês: B2 — intermediário-avançado.
