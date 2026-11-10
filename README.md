@@ -14,7 +14,10 @@ Meu foco é transformar dados e regras de negócio em soluções práticas.
   <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/TOTVS_RM-121212?style=for-the-badge&logoColor=white" alt="TOTVS RM" />
-</p>Experiência prática: consultas SQL com JOIN, GROUP BY, HAVING, filtros e agregações; análise de demandas e geração de relatórios. Python: fundamentos. Oracle SQL: familiaridade com adaptação de consultas.
+</p>
+<p>
+  Experiência prática: consultas SQL com JOIN, GROUP BY, HAVING, filtros e agregações; análise de demandas e geração de relatórios. Python: fundamentos. Oracle SQL: familiaridade com adaptação de consultas.
+</p>
 
 📚 Em aprendizado
 <p>
@@ -22,7 +25,10 @@ Meu foco é transformar dados e regras de negócio em soluções práticas.
   <img src="https://img.shields.io/badge/Power_BI-121212?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
   <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-</p>Aprofundando Python para análise e automação de dados, Pandas, Power BI, modelagem de dados, Java, JavaScript e fundamentos de desenvolvimento back-end.
+</p>
+<p>
+  Aprofundando Python para análise e automação de dados, Pandas, Power BI, modelagem de dados, Java, JavaScript e fundamentos de desenvolvimento back-end.
+</p>
 
 🎯 Objetivo profissional
 <p>
